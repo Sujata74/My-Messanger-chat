@@ -1,0 +1,34 @@
+.bigbox {
+  background-image: url('https://github.com/Jinesh2526/Jineshwattsimg/blob/main/mainimagwatt.jpg?raw=true');
+  /* height: 100px; */
+  width: 100rem;
+  height: 50rem;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+   align-items: center; 
+  /* padding: 1rem */
+}
+.smallline {
+  width: calc(100rem - 92%);
+  height: 50rem;
+  background-color: violet;
+  display: flex;
+  flex-direction: column;
+  /* justify-content: center;
+  align-items: center; */
+}
+.chats {
+  width: calc(100rem - 65%);
+  height: 50rem;
+  background-color: purple;
+  display: flex;
+  flex-direction: column;
+}
+.conversation {
+  width: calc(100rem - 1%);
+  height: 50rem;
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+}
