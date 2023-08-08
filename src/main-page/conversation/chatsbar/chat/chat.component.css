@@ -53,6 +53,12 @@
   justify-content: space-between;
   /* padding: 0 0.8rem; */
 }
+.p-time{
+  /* margin-top: 4.8rem; */
+  margin-bottom: 3.3rem;
+  margin-right: 13rem;
+  font-size: 13px;
+}
 .message {
   font-size: 0.9rem;
   color: #667781;
