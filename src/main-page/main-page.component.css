@@ -1,5 +1,5 @@
 .bigbox {
-  background-image: url('https://github.com/Jinesh2526/Jineshwattsimg/blob/main/mainimagwatt.jpg?raw=true');
+  background-image: url('https://github.com/Sujata74/logo/blob/main/blank1.jpg?raw=true');
   /* height: 100px; */
   width: 100rem;
   height: 50rem;
@@ -12,7 +12,7 @@
 .smallline {
   width: calc(100rem - 92%);
   height: 50rem;
-  background-color: violet;
+  /* background-color: violet; */
   display: flex;
   flex-direction: column;
   /* justify-content: center;
