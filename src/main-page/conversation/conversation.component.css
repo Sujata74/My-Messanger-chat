@@ -1,0 +1,7 @@
+.conversationbox {
+  display: flex;
+  flex-direction: column;
+  height: 43rem;
+  border-right: 1.5px solid #ccc;
+  border-left: 1.5px solid #ccc;
+}
